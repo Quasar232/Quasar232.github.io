@@ -4,7 +4,7 @@ title: Connor The Sablan Dot Com
 permalink: /Awesomethemoc/
 ---
 
-WHAT THE FUCK WHO ARE YOU HOW DID YOU GET INTO MY HOUSE ?
+The trojan war was fought in your head.
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
