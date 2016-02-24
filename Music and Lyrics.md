@@ -4,7 +4,7 @@ title: Connor The Sablan Dot Com
 permalink: /Awesomethemoc/
 ---
 
-The Shit is the Shit 
+WHAT THE FUCK WHO ARE YOU HOW DID YOU GET INTO MY HOUSE ? ?? ?
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
