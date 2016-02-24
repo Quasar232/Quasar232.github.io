@@ -4,8 +4,7 @@ title: Connor The Sablan Dot Com
 permalink: /Awesomethemoc/
 ---
 
-Begin to change the way people think. Shoogady boom boom boom boom ba shoogady 
-shoogady shoot. Da boom boom boom da shoogady shoogady show da boom boom boom.
+The Shit is the Shit 
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /
